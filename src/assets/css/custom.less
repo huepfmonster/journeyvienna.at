@@ -1,0 +1,240 @@
+html,
+button,
+input,
+select,
+textarea,
+.pure-g [class *= "pure-u"] {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 19px;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  color: #bba;
+  height: 100%;
+}
+
+h2 {
+  color: #fff;
+}
+
+div.pure-menu a {
+  padding: 4px 8px 5px 8px;
+}
+
+.mid {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.pad {
+  padding: 25px;
+}
+
+.responsive-embed {
+  position: relative;
+  padding-bottom: 36.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+
+  iframe,   
+  object,  
+  embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+}
+
+section {
+  background-size: cover;
+  border-bottom: 1px solid #000;
+  box-shadow: inset 0 0 12px rgba(0, 0, 0, 1);
+
+  a {
+    border-bottom: 1px dashed rgba(256, 256, 256, 0.2);
+    color: #fff;
+    font-style: italic;
+    text-decoration: none;
+      
+    &:hover {
+      color: rgba(256, 256, 256, 0.8);
+    }
+  }
+}
+
+section#title {
+  background-color: #000;
+  background-image: url(../images/repp-underpass.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgba(256, 256, 256, 0.1);
+  font-size: 28px;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+section#gist {
+  background-color: #000;
+  background-image: url(../images/map-dark-a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  padding: 60px;
+
+  h1 {
+    color: #fff;
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 25px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: #000 1px 1px 1px;
+    width: 100%;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+  
+  ul {
+    text-align: center;
+  }
+
+  li {
+    display: inline;
+    padding-right: 20px;
+  }
+}
+
+section.impression {
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: none;
+  display: table;
+  height: 200px;
+  width: 100%;
+
+  h2 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0;
+    text-align: center;
+    text-shadow: #000 1px 1px 1px;
+    width: 100%;
+  }
+
+  q {
+    font-family: 'La Belle Aurore', cursive;  
+  }
+
+  a {
+    border-bottom: 0;
+  }
+}
+
+section.impression > div.pad {
+  display: table-cell;
+  padding: 0;
+  vertical-align: middle;
+}
+
+section.background-headlight { background-image: url(../images/pyrker-map-m.jpg); }
+section.background-park { background-image: url(../images/emhofer-park.jpg); }
+section.background-chaser { background-image: url(../images/mue-bloody.jpg); }
+section.background-nuclear { background-image: url(../images/mue-nuclear.jpg); }
+
+section.background-chaser h2 {
+  font-size: 18px;
+}
+
+section#credits {
+  background-color: #000;
+  background-image: url(../images/map-dark-c.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  padding-bottom: 40px;
+  padding: 60px;
+}
+
+section#elaboration {
+  background-color: #000;
+  background-image: url(../images/map-dark-a.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  min-height: 100%;
+  padding: 60px;
+  
+  h1 {
+    color: #fff;
+  }
+
+  li {
+    list-style-type: circle;
+  }
+}
+
+
+/* 
+ * Responsive shenanigans ≥ 768px
+ */
+
+@media(min-width: 48em) {
+  
+  section#title { font-size: 33px; }
+  section#gist h1 { font-size: 40px; }
+  section.impression { height: 400px; }
+  section.impression h2 { font-size: 24px; }
+
+}
+
+/*
+ * Responsive shenanigans ≥ 1024px
+ */
+
+@media(min-width: 64em) {
+  
+  section#title { font-size: 44px; }
+  section#gist h1 { font-size: 40px; }
+  section.impression { height: 600px; }
+  section.impression h2 { font-size: 30px; }
+
+}
+
+/*
+ * Responsive shenanigans ≥ 1280px
+ */
+
+@media(min-width: 80em) {
+  
+  section#title { font-size: 66px; }
+  section.impression { height: 900px; }
+  section.impression h2 { font-size: 30px; }
+}
+
+/*
+ * Google Maps Styles
+ */
+
+#map {
+    height:383px;
+    width:974px;
+}
+
+.gm-style-iw * {
+    display: block;
+    width: 100%;
+}
+.gm-style-iw h4, .gm-style-iw p {
+    margin: 0;
+    padding: 0;
+}
+.gm-style-iw a {
+    color: #4272db;
+}

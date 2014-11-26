@@ -1,0 +1,130 @@
+# title
+
+title: Journey to the End of the Night Vienna 2014
+
+# menu
+
+menu.when-where: Wo & Wann
+menu.game: Das Spiel
+menu.task: Die Aufgabe
+menu.how: Wie mitmachen
+menu.impressions: Impressionen
+menu.credits: Credits
+menu.other-journeys: Andere Journeys
+
+# opener
+
+opener: >
+  Die Stadt liegt vor deinen Füssen. Im flüchtig pulsierenden Neonlicht
+  vorbeifahrender Busse hastest du in dunklen Strassen von Punkt zu Punkt.
+  Wagst dich in neue Situationen, nur für die Unterschrift eines Fremden.
+  Flüchtest vor unbekannten Verfolger. Atmest tief ein und bewunderst die
+  abertausenden Welten die sich in der Szenerie verstecken. Für nur eine Nacht,
+  lass alle deine Beziehungen, deine Arbeit und Freizeitaktivitäten, üblichen
+  Motive für Bewegung und Aktion zurück, und lass dich vom Reiz der Verfolgung
+  und all der Begegnungen die du dort finden wirst in den Bann ziehen.
+
+# gist/info
+
+info.date: Mittwoch, 31. Dezember
+info.time: "19:00"
+info.address: Wird angekündigt
+
+#gist/game
+
+game.heading: Das Spiel
+game.abstract: >
+  Journey to the End of the Night ist ein kostenfreies Spiel mit epischen
+  Ausmassen, organisiert von hart arbeitenden Freiwilligen auf der ganzen Welt,
+  von Budapest bis Los Angeles.
+game.organization: >
+  Es ist ein kollaboratives, beherztes Werk von uns allen, von der Organisation
+  zu den Agenten, bis zu dir als Spieler und Weiterverbreiter unter deinen
+  Freunden! Gehen wirs an, Wien!
+
+#gist/task
+
+task.heading: The Task
+task.text: >
+  Eine Jagd durch die Stadt in mehreren Teilen: Versuch so schnell und
+  unauffällig wie möglich durch eine Reihe von Checkpoints zu kommen, ohne
+  dabei von den Fängern erwischt zu werden. Wirst du gefangen, wirst du selber
+  ein Fänger und musst deine bisherigen Freunde und Alliierten jagen. Keine
+  Rollerskates, Fahrräder, Autos - Nur deine Füsse und die Öffis.
+task.details: Hier <a href="de/game.html">die Spielmechanik im Detail</a>.
+
+# gist/Join
+
+join.heading: Wie mitmachen
+join.text: >
+  Das Spiel ist <em>gratis</em> und verlangt <em>keine Registrierung</em>, du
+  musst einfach nur <em>dort sein wenn es anfängt</em> ! Wir freuen uns aber
+  wenn du uns eine kurze <a href="mailto:journeyvienna@gmail.com">email</a>
+  schreibst, dem <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a> beitrittst,
+  <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">Tweet</a>s
+  darüber schreibst, es deinen Freunden erzählst oder sie mitbringst, etc.
+join.spread: Mehr Information zur <a href="de/publicity.html">Weiterverbreitung</a>.
+
+# impressions
+
+impression.leobard: >
+  <q>"Danke an die OrganisatorInnen!!! ihr rockt, und ich hoffe ihr hattet
+  soviel Spass wie ich."</q> -
+  <a href="http://leobard.twoday.net/stories/5998348/">Läufer leobard</a>
+
+impression.knizz: >
+  <q>"Ich war überrascht wie freundlich sich die Läufer gegenseitig behandelten.
+  Ohne jegliche Vorstellung oder auch nur drüber nachzudenken."</q> -
+  <a href="http://sf0.org/knizz/Journey-to-the-End-of-the-Night-Vienna-2010/">Läufer knizz</a>
+
+impression.soziomorph: >
+  <q>"Sie haben ihn erwischt. Jetzt bin ich allein. Ganz allein."</q> -
+  <a href="http://sf0.org/soziomorph/Journey-to-the-End-of-the-Night-Vienna-2010/">Läufer Soziomorph</a>
+
+impression.ovos: >
+  <q>"Wir hatten viele interessante Gespräche mit erstaunten und neugierigen
+  Passanten und wurden, aus welchen Gründen auch immer, sogar einmal für Zeugen
+  Jehovas gehalten."</q> -
+  <a href="http://www.ovos.at/blog/1,street-game-journey-to-the-end-of-the-night.html">Checkpoint Hosts ovos</a>
+
+# credits/game
+
+credits.game.heading: Spiel Credits
+credits.game.design: >
+  Das Spiel Journey wurde von <a href="http://sf0.org">SFZero</a> &
+  <a href="http://paragoogle.com">paragoogle.com</a> designt und ist unter
+  CC-BY-NC lizensiert. Die offizielle Website ist
+  <a href="http://totheendofthenight.com">totheendofthenight.com</a>
+credits.game.elsewhere: >
+  Seit 2006 wurde es unzählige Male von lokalen OrganisatorInnen in Manhattan,
+  Brooklyn, London, Washington DC, Los Angeles, Minneapolis, Chicago, Oakland,
+  San Francisco, Budapest, Ljubljana, und vielen anderen Orten organisiert.
+
+# credits/photo
+
+credits.photo.heading: Foto Credits
+credits.photo.thankyou: >
+  Wir sind sehr dankbar für alle, die bisher und weiterhin wunderbare Fotos von
+  den Journeys machen.
+credits.photo.attributions: >
+  Die Fotos die wir auf dieser Seite verwenden sind CC-BY-NC von
+  <a href="http://pyrker.com/richard/">Richard Pyrker</a> (Läufer der die Karte studiert),
+  CC-BY von <a href="http://kondens.at/">Michael Emhofer</a> (Treffpunkt unter dem Himmel)
+  und CC-BY-NC-SA von <a href="http://worm23.smugmug.com/Other/JourneyViennaMuE/">MuE</a> (Nuklearforscher, Blutiger Fänger).
+
+# credits/team
+
+credits.team.heading: Team & Kontakt
+credits.team.playvienna: >
+  Organisiert von <a href="http://fin.io">fin</a> und
+  <a href="http://playvienna.com">play:vienna</a>.
+credits.team.agents: Unsere Undercover Checkpoint Agenten werden nach der Journey bekanntgegeben.
+credits.team.volunteer: >
+  Willst du Teil des nächsten Journey Teams sein?<br/>
+  Lies die <a href="volunteer-german.html">Information für Freiwillige</a>!
+credits.team.contact: Kontaktiere uns via <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>.
+
+# google-maps-js
+
+maps.marker.title: Treffpunkt
+maps.marker.text: Hier beginnt das Spiel, komm nicht zu spät!

@@ -1,0 +1,129 @@
+# title
+
+title: Journey to the End of the Night Vienna 2014
+
+# menu
+
+menu.when-where: When & Where
+menu.game: The Game
+menu.task: The Task
+menu.how: How To Join
+menu.impressions: Impressions
+menu.credits: Credits
+menu.other-journeys: Other Journeys
+
+# opener
+
+opener: >
+  The city spreads out before you. Rushing from point to point, lit by the slow
+  strobe of fluorescent buses in dark streets. Stumbling into situations for a
+  stranger's signature. Fleeing unknown pursuers, breathing hard, admiring the
+  landscape and the multitude of worlds hidden in it. For one night, drop your
+  relations, your work and leisure activities, and all your usual motives for
+  movement and action, and let yourself be drawn by the attractions of the
+  chase and the encounters you find there.
+
+# gist
+
+info.date: Wednesday, August 30th
+info.time: "19:00"
+info.address: To be announced
+
+# gist/game
+
+game.heading: The Game
+game.abstract: >
+  Journey to the End of the Night is a free street game of epic proportion run
+  by hard-working volunteers in cities around the world from Budapest to
+  Los Angeles.
+game.organization: >
+  It is a collaborative and voluntary effort by everyone, from the organizers
+  to the agents, to you as a player and voice that spreads the word to your
+  friends! Let's do this again, Vienna!
+
+# gist/task
+
+task.heading: The Task
+task.text: >
+  A pursuit across the city in multiple parts: Try to make it through a series
+  of checkpoints as quickly and as stealthily as possible, while avoiding being
+  caught by chasers. Should you be captured, you become a chaser yourself and
+  have to pursue your former friends and allies. No skates, no bikes, no cars —
+  just your feet and public transport.
+task.details: Here's <a href="game.html">how the game works in detail</a>.
+
+# gist/Join
+
+join.heading: How to join
+join.text: >
+  The game is <em>free</em> and requires <em>no signup</em>, the only thing you
+  need to do is <em>be there when it starts</em> ! Still, we would appreciate
+  it if you drop us a quick <a href="mailto:journeyvienna@gmail.com">email</a>,
+  join the <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>,
+  <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">tweet about it</a>,
+  tell all your friends or bring them along, etc.
+join.spread: More information on <a href="publicity.html">spreading the word</a>.
+
+# impressions
+
+impression.leobard: >
+  <q>"Thanks to the organizers!!! you rock, and I hope  you had as much fun as
+  we did."</q> -
+  <a href="http://leobard.twoday.net/stories/5998348/">Runner leobard</a>
+
+impression.knizz: >
+  <q>"I was surprised how friendly runners treated each other. Without any
+  introduction or even thinking about it."</q> -
+  <a href="http://sf0.org/knizz/Journey-to-the-End-of-the-Night-Vienna-2010/">Runner knizz</a>
+
+impression.soziomorph: >
+  <q>"They got him. Now I am alone. All alone."</q> -
+  <a href="http://sf0.org/soziomorph/Journey-to-the-End-of-the-Night-Vienna-2010/">Runner Soziomorph</a>
+
+impression.ovos: >
+  <q>"We had many interesting talks with amazed and curious bypassers and were,
+  for whatever reasons, even taken to be Jehovah's Witnesses once."</q> -
+  <a href="http://www.ovos.at/blog/1,street-game-journey-to-the-end-of-the-night.html">Checkpoint Hosts ovos</a>
+
+# credits/game
+
+credits.game.heading: Game Credits
+credits.game.design: >
+  Journey is a game designed by
+  <a href="http://sf0.org">SFZero</a> &
+  <a href="http://paragoogle.com">paragoogle.com</a>
+  and is licensed under a CC-by-nc license. Its official website is
+  <a href="http://totheendofthenight.com">totheendofthenight.com</a>
+credits.game.elsewhere: >
+  Since 2006, it has been presented several times by local organizers in
+  Manhattan, Brooklyn, London, Washington DC, Los Angeles, Minneapolis, Chicago,
+  Oakland, San Francisco, Budapest, Ljubljana, and many other places.
+
+# credits/photo
+
+credits.photo.heading: Photo Credits
+credits.photo.thankyou: >
+  We are very grateful to all the people who make and have made wonderful
+  photos of our journeys.
+credits.photo.attributions: >
+  The ones we used on this site are CC-BY-NC by
+  <a href="http://pyrker.com/richard/">Richard Pyrker</a> (Runner looking at map),
+  CC-BY by <a href="http://kondens.at/">Michael Emhofer</a> (Gathering under the open sky)
+  and CC-BY-NC-SA by <a href="http://worm23.smugmug.com/Other/JourneyViennaMuE/">MuE</a> (Nuclear scientist, Bloody chaser).
+
+# credits/team
+
+credits.team.heading: Team & Contact
+credits.team.playvienna: >
+  Organized by <a href="http://fin.io">fin</a> and
+  <a href="http://playvienna.com">play:vienna</a>.
+credits.team.agents: Our undercover checkpoint agents will be disclosed after the journey.
+credits.team.volunteer: >
+  Want to be a part of the next journey team?<br/>
+  Read our <a href="volunteer.html">information for volunteers</a>!
+credits.team.contact: Contact us at <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>.
+
+# google-maps-js
+
+maps.marker.title: Gathering point
+maps.marker.text: This is from where the game starts, don't be late!

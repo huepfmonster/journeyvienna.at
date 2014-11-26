@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'La Belle Aurore';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/la-belle-aurore.eot');
+  src: url('../fonts/la-belle-aurore.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/la-belle-aurore.woff') format('woff'),
+       url('../fonts/la-belle-aurore.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Pathway Gothic One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/pathway-gothic-one.eot');
+  src: url('../fonts/pathway-gothic-one.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/pathway-gothic-one.woff') format('woff'),
+       url('../fonts/pathway-gothic-one.ttf') format('truetype');
+}
