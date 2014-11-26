@@ -23,21 +23,35 @@ module.exports = function(grunt) {
           }
         ],
         data: '<%= source %>/data/*.{yaml,json}',
+        layout: 'base.hbs',
+        layoutdir: '<%= source %>/layouts/',
         partials: '<%= source %>/partials/*.{hbs,md}'
       },
       en: {
         options: {
           language: 'en'
         },
-        dest: '<%= distribution %>/index.html',
-        src: '<%= source %>/content/index.hbs'
+        files: [
+          {
+            cwd: '<%= source %>/content/',
+            src: ['**/*.hbs'],
+            expand: true,
+            dest: '<%= distribution %>/'
+          }
+        ]
       },
       de: {
         options: {
           language: 'de'
         },
-        dest: '<%= distribution %>/de/index.html',
-        src: '<%= source %>/content/index.hbs'
+        files: [
+          {
+            cwd: '<%= source %>/content/',
+            src: ['**/*.hbs'],
+            expand: true,
+            dest: '<%= distribution %>/de/'
+          }
+        ]
       }
     },
 

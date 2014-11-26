@@ -1,3 +1,5 @@
+### index
+
 # title
 
 title: Journey to the End of the Night Vienna 2014
@@ -51,7 +53,7 @@ task.text: >
   dabei von den Fängern erwischt zu werden. Wirst du gefangen, wirst du selber
   ein Fänger und musst deine bisherigen Freunde und Alliierten jagen. Keine
   Rollerskates, Fahrräder, Autos - Nur deine Füsse und die Öffis.
-task.details: Hier <a href="de/game.html">die Spielmechanik im Detail</a>.
+task.details: Hier <a href="/de/game/">die Spielmechanik im Detail</a>.
 
 # gist/Join
 
@@ -63,7 +65,7 @@ join.text: >
   schreibst, dem <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a> beitrittst,
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">Tweet</a>s
   darüber schreibst, es deinen Freunden erzählst oder sie mitbringst, etc.
-join.spread: Mehr Information zur <a href="de/publicity.html">Weiterverbreitung</a>.
+join.spread: Mehr Information zur <a href="/de/publicity/">Weiterverbreitung</a>.
 
 # impressions
 
@@ -121,10 +123,151 @@ credits.team.playvienna: >
 credits.team.agents: Unsere Undercover Checkpoint Agenten werden nach der Journey bekanntgegeben.
 credits.team.volunteer: >
   Willst du Teil des nächsten Journey Teams sein?<br/>
-  Lies die <a href="volunteer-german.html">Information für Freiwillige</a>!
+  Lies die <a href="/de/volunteer/">Information für Freiwillige</a>!
 credits.team.contact: Kontaktiere uns via <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>.
 
 # google-maps-js
 
 maps.marker.title: Treffpunkt
 maps.marker.text: Hier beginnt das Spiel, komm nicht zu spät!
+
+### publicity
+
+publicity.spread.title: Erzähl es weiter!
+publicity.spread.text: >
+  Für ein grossartiges Spiel brauchen wir viele Spieler! Da die Journey ohne
+  Werbebudget organisiert wird, brauchen wir deine Hilfe um die Leute zu
+  informieren. Ja, dich - den potentiellen Spieler. Bring deine Freunde,
+  deine Feinde, jeden den du kennst (oder auch nicht wirklich kennst),
+  und vor allem die von denen du glaubst, du kannst sie abhängen.
+
+publicity.how.title: Wie kann ich helfen?
+publicity.how.text: >
+  Vor allem, erzähl es weiter. Wenn du dem Spiel bereits entgegeneiferst,
+  informiere jeden den du bis zum Tag des Spiel triffst. Der Grossteil der
+  Spieler erfährt von diesem Spiel durch dieses geniale Marketingding namens
+  "Mundpropaganda". Um es dir leichter zu machen, haben wir ein
+  <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>
+  erstellt, welches du sharen kannst, und zu welchem du deine Freunde einladen
+  kannst.
+  <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">Twittere</a> auch darüber !
+
+publicity.more.title: Noch mehr?
+publicity.more.text: >
+  Wenn du dich noch mehr involvieren willst, sieh dir die
+  <a href="/de/volunteer/">Freiwilligen Seite</a> an -
+  wir können immer helfende Hände gebrauchen!
+
+publicity.back: « <a href="/de/">Zurück zur Hauptseite</a>
+
+### volunteer
+
+volunteer.heading: Freiwilligen Info
+volunteer.text: >
+  Wir organisieren grossartige Spiele für alle - aber wir brauchen dafür immer
+  Hilfe! Die Journey wird von einer kleinen Crew von Enthusiasten organisiert,
+  die nicht überall gleichzeitig sein können (wie die erste Journey gezeigt
+  hat =) ). Bitte hilf mit, vor allem wenn du das letzte Mal bereits gespielt
+  hast!
+
+volunteer.spread.title: Mundpropaganda
+volunteer.spread.text: >
+  Am wichtigsten: Hilf uns allen <a href="/de/publicity/">davon zu erzählen</a>!
+
+volunteer.checkpoint.title: Organisiere einen Checkpoint
+volunteer.checkpoint.text: >
+  Wenn du künstlerisch veranlagt bist oder gut mit Leuten kannst, überleg dir
+  einen Checkpoint zu gestalten oder zu bemannen! Alles Mögliche kann bei einem
+  Checkpoint passieren, solange es Aufmerksamkeit generiert und heraussticht -
+  sei kreativ!
+
+volunteer.chaser.title: Sei ein Chaser
+volunteer.chaser.text: >
+  Für jede Journey casten wir einen kleine Gruppe von Initial Chasern -
+  magst du auf die Jagd gehen und etwas Einblick in die Spielorganisation
+  bekommen? Melde dich!
+
+volunteer.document.title: Dokumentiere die Journey
+volunteer.document.text: >
+  Wir lieben gute Dokumentation bei den Journeys - wenn du ein Fotograf oder
+  Kameramensch bist, kontaktiere uns und wir geben dir die einzigartige
+  Möglickeit dieses grossartige Spiel zu dokumentieren!
+
+volunteer.contact: >
+  Kontaktiere uns via
+  <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>
+  wenn du interessiert bist!
+
+volunteer.back: « <a href="/de/">Zurück zur Hauptseite</a>
+
+### game
+
+game.details.title: Spiel Details
+game.details.text:
+  Journey To The End Of The Night ist eine Jagd durch die ganze Stadt. Es ist
+  quasi eine, mitunter gelaufene, Schnitzeljagd gemischt mit Fangen spielen.
+  Die Route ist jeweils zirka 10km lang und man braucht zirka 2 bis 4 Stunden
+  um sie zu absolvieren (inklusive Umwegen und Störfaktoren). Die Ziellinie ist
+  nahe einer U-Bahn und NightLine Station.
+
+game.bring.title: Was du mitbringen solltest
+game.bring.bullets: |
+  <ul>
+    <li>Gemütliche Schuhe</li>
+    <li>Wasser</li>
+    <li>Vielleicht eine Kamera</li>
+    <li>Jeden, von dem du glaubst, dass du ihn/sie abhängen kannst</li>
+  </ul>
+
+game.receive.title: Was du bekommst
+game.receive.bullets: |
+  <ul> 
+    <li>Ein Läufer ("Runner") Band, zu tragen solange du gejagt wirst</li> 
+    <li>Ein Fänger ("Chaser") Band, zu tragen wenn du gefangen wirst</li> 
+    <li>Das Manifest, dass bei jedem Checkpoint unterzeichnet werden muss</li> 
+    <li>Eine Karte der designierten Checkpoints</li> 
+    <li>Aufmunternde Worte</li>
+  </ul> 
+
+game.procedure.title: Genereller Ablauf
+game.procedure.text: >
+  Bei den fünf Checkpoints in der Stadt warten verkleidete Agenten, um die
+  Manifeste der Spieler zu unterzeichnen, wenn dieses ankommen. Beim Treffpunkt
+  am Start wird eine verbale Beschreibung der Agenten des ersten Checkpoints
+  verlesen, womit das Spiel beginnt. Auszeichnungen, Geschichten und
+  üblicherweise leichte Erfrischungen sind im Ziel vorhanden. Die Zielgegend
+  ist immer in Gehdistanz zu zumindest einer U-Bahn Station und einigen Lokalen.
+
+game.instructions.title: Spieler Instruktionen
+game.instructions.text: >
+  Dein Ziel ist es, den letzten Checkpoint als Erster und mit einem
+  komplettierten Manifest zu erreichen, ohne dazwischen von einem Fänger
+  erwischt zu werden. Du darfst gehen, rennen oder die Öffis verwenden.
+  Bei jedem Checkpoint musst du einen Agenten finden, der dein Manifest
+  unterzeichnet. Diese Agenten geben dir dann Hinweise darauf, wie du die
+  Agenten beim nächsten Checkpoint findest. Wenn du erwischt (getagged) wirst,
+  nimm dein Läuferband ab, und gib es deinem Fänger. Dann gibt dir dein
+  Fängerband auf den Arm. Dein Ziel ist es ab dann andere Spieler zu fangen.
+
+game.rules.title: Regeln
+game.rules.bullets: |
+  <ul> 
+    <li>Nur zu Fuss oder mit den Öffis– ABSOLUT KEINE AUTOS, TAXIS, RÄDER, SKATEBOARDS, ROCKET PACKS, ETC.</li> 
+    <li>Du musst die Checkpoints der Reihenfolge nach absolvieren</li> 
+    <li>Kommst du zu einem Checkpoint nachdem er schon geschlossen hat, darfst du einen Unbekannten fragen, dein Manifest zu unterzeichnen.</li> 
+    <li>Dein Band muss zu jeder Zeit sichtbar getragen werden. Das Verstecken des Bandes wird als Schummeln eingestuft, und kann mit dem Tod bestraft werden.</li> 
+    <li>Wenn dich ein Fänger fängt, musst du dein Läuferband hergeben, und dein Fängerband auf deinem Arm anbringen.</li> 
+    <li>Nur eine Person auf einmal fangen: Fänger können keine weiteren Leute fangen, während sie gerade Bänder austauschen.</li> 
+    <li>In Spielnotfällen, kontaktiere Fin!</li> 
+    <li>In medizinischen Notfällen, ruf die Rettung: 144!</li> 
+  </ul> 
+
+game.safezones.title: Sichere Zonen ("Leo")
+game.safezones.bullets: |
+  <ul> 
+    <li>Innerhalb von und beim Einsteigen in Öffis</li> 
+    <li>Gebiete rund um die Checkpoints, sowie auf der Karte eingezeichnet</li> 
+    <li>Etwaige spezifische Zusätze werden beim Start bekanntgegeben</li> 
+  </ul> 
+
+game.back: « <a href="/de/">Zurück zur Hauptseite</a> 

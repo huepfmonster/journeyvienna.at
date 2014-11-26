@@ -1,3 +1,5 @@
+### index
+
 # title
 
 title: Journey to the End of the Night Vienna 2014
@@ -50,7 +52,7 @@ task.text: >
   caught by chasers. Should you be captured, you become a chaser yourself and
   have to pursue your former friends and allies. No skates, no bikes, no cars —
   just your feet and public transport.
-task.details: Here's <a href="game.html">how the game works in detail</a>.
+task.details: Here's <a href="/game/">how the game works in detail</a>.
 
 # gist/Join
 
@@ -62,7 +64,7 @@ join.text: >
   join the <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>,
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">tweet about it</a>,
   tell all your friends or bring them along, etc.
-join.spread: More information on <a href="publicity.html">spreading the word</a>.
+join.spread: More information on <a href="/publicity/">spreading the word</a>.
 
 # impressions
 
@@ -120,10 +122,148 @@ credits.team.playvienna: >
 credits.team.agents: Our undercover checkpoint agents will be disclosed after the journey.
 credits.team.volunteer: >
   Want to be a part of the next journey team?<br/>
-  Read our <a href="volunteer.html">information for volunteers</a>!
+  Read our <a href="/volunteer/">information for volunteers</a>!
 credits.team.contact: Contact us at <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>.
 
 # google-maps-js
 
 maps.marker.title: Gathering point
 maps.marker.text: This is from where the game starts, don't be late!
+
+
+### publicity
+
+publicity.spread.title: Spread the Word!
+publicity.spread.text: >
+  In order for a great game to happen, we need a lot of people playing! However,
+  the Journey is organized without budget for advertising - this means we need
+  your help to get the word out. Yes, you - the potential player. Bring your
+  friends, your enemies - anyone you know (or don't really know), especially
+  those that you think you can outrun.
+
+publicity.how.title: How can I help?
+publicity.how.text: >
+  Most importantly, talk it up. If you are excited about playing this game,
+  inform everyone you come across between now and game time. The bulk of our
+  players heard about this game by the genius of advertising that is
+  'word-of-mouth.' To make it easier for you to spread the word, we created a
+  <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>
+  which you can share, and to which you can invite your friends. Also
+  <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">tweet about it</a> !
+
+publicity.more.title: Want more?
+publicity.more.text: >
+  If you want to get involved even more, check out the
+  <a href="/volunteer/">volunteer page</a> -
+  we could still use a few more helping hands!
+
+publicity.back: « <a href="/">Back to main page</a>
+
+### volunteer
+
+volunteer.heading: Volunteer information
+volunteer.text: >
+  We organize great games for everyone - but we always need help
+  doing it! The Journey is run by a small crew of enthusiasts, who cannot be
+  everywhere at once (as proved at the first run =) ). Please, help us out,
+  especially if you've already played the last time!
+
+volunteer.spread.title: Spread the Word
+volunteer.spread.text: >
+  Most important of all: Help us <a href="/publicity/">spread the word</a>
+  about the game!
+
+volunteer.checkpoint.title: Operate a Checkpoint
+volunteer.checkpoint.text: >
+  If you're artistically inclined or a people person, please consider creating
+  and/or staffing a checkpoint! Anything can happen at a checkpoint, as long as
+  it draws attention and stands out in the city - be creative!
+
+volunteer.chaser.title: Be a Chaser
+volunteer.chaser.text: >
+  For each run, we are casting a small crowd of initial chasers - looking for a
+  good hunt and some insight in the game's organization? Get in touch!
+
+volunteer.document.title: Document
+volunteer.document.text: >
+  We love to have good documentation for our journeys - if you're a photo- or
+  videographer, contact us and we'll give you the unique opportunity to
+  document this amazing game!
+
+volunteer.contact: >
+  Contact us at
+  <a href="mailto:journeyvienna@gmail.com">journeyvienna@gmail.com</a>
+  if you're interested!
+
+volunteer.back: « <a href="/">Back to main page</a>
+
+### game
+
+game.details.title: Game Details
+game.details.text:
+  Journey To The End Of The Night is a chase game played across an entire city.
+  It is not unlike a foot race mixed with a scavenger hunt and a game of tag.
+  The course will be approximately 10km and may take 2 to 4 hours to complete
+  (accounting for interference). The finish line will be near a Metro and
+  NightLine station.
+
+game.bring.title: What you should bring
+game.bring.bullets: |
+  <ul>
+    <li>Comfortable shoes</li>
+    <li>Water</li>
+    <li>Possibly a camera</li>
+    <li>Everyone you think you can outrun</li>
+  </ul>
+
+game.receive.title: What you will receive
+game.receive.bullets: |
+  <ul>
+    <li>A player ribbon, to wear while being chased</li>
+    <li>A chaser ribbon, to wear if caught</li>
+    <li>A manifest sheet, to be signed at each checkpoint</li>
+    <li>A map of the designated checkpoints</li>
+    <li>Words of encouragement</li>
+  </ul>
+
+game.procedure.title: General Procedure
+game.procedure.text: >
+  Agents will be in disguise at the five checkpoints around the city, waiting
+  to sign players’ manifests as they arrive. At the gathering point, a mediator
+  will give a verbal description of the Agents at the first checkpoint,
+  and so the game begins. Awards, stories and possibly light refreshments
+  will be presented at the finish line. The finish line location will be
+  in walking distance of at least a Metro station and a few bars.
+
+game.instructions.title: Player Instructions
+game.instructions.text: >
+  Your goal is to reach the final checkpoint first with a complete manifest and
+  without being caught by Chasers. You may walk, run, or use public transport.
+  At each checkpoint you must find an Agent to sign your manifest.
+  These Agents will instruct you on how to identify the Agent at the next
+  checkpoint. If you are caught (tagged), remove your player ribbon and give
+  it to the Chaser who got you.  Put on your chaser ribbon. Your goal now is
+  to catch other players.
+
+game.rules.title: Rules
+game.rules.bullets: |
+  <ul>
+    <li>Travel by foot or public transport only– ABSOLUTELY NO CARS, TAXIS, BIKES, SKATEBOARDS, ROCKET PACKS, ETC.</li>
+    <li>You must do the checkpoints in order.</li>
+    <li>If you arrive at a checkpoint after the checkpoint has closed, you may ask a stranger to sign your manifest.</li>
+    <li>Your ribbon must be worn visibly on the upper arm at all times. Hiding your ribbon is considered cheating, and is punishable by death.</li>
+    <li>If a chaser tags you, you must surrender your runner's ribbon & put on your chaser's ribbon.</li>
+    <li>Only one tag at a time: Chasers cannot tag while exchanging the ribbon.</li>
+    <li>In case of game emergency, call Fin!</li>
+    <li>In case of medical emergency, call 144!</li>
+  </ul>
+
+game.safezones.title: Safe Zones
+game.safezones.bullets: |
+  <ul>
+    <li>On board and while boarding public transport</li>
+    <li>Areas surrounding each checkpoint as designated on your map</li>
+    <li>Specific additions might be announced at the beginning of the game</li>
+  </ul>
+
+game.back: « <a href="/">Back to main page</a>
