@@ -28,7 +28,7 @@ opener: >
 
 # gist/info
 
-info.date: Mittwoch, 31. Dezember
+info.date: Samstag, 17. September
 info.time: "19:00"
 info.address: Wird angekündigt
 
@@ -62,7 +62,7 @@ join.text: >
   Das Spiel ist <em>gratis</em> und verlangt <em>keine Registrierung</em>, du
   musst einfach nur <em>dort sein wenn es anfängt</em> ! Wir freuen uns aber
   wenn du uns eine kurze <a href="mailto:journeyvienna@gmail.com">email</a>
-  schreibst, dem <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a> beitrittst,
+  schreibst, dem <a href="https://www.facebook.com/events/526793160853271/">Facebook Event</a> beitrittst,
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">Tweet</a>s
   darüber schreibst, es deinen Freunden erzählst oder sie mitbringst, etc.
 join.spread: Mehr Information zur <a href="/de/publicity/">Weiterverbreitung</a>.
@@ -118,8 +118,7 @@ credits.photo.attributions: >
 
 credits.team.heading: Team & Kontakt
 credits.team.playvienna: >
-  Organisiert von <a href="http://fin.io">fin</a> und
-  <a href="http://playvienna.com">play:vienna</a>.
+  Organisiert von <a href="http://playvienna.com">play:vienna</a>.
 credits.team.agents: Unsere Undercover Checkpoint Agenten werden nach der Journey bekanntgegeben.
 credits.team.volunteer: >
   Willst du Teil des nächsten Journey Teams sein?<br/>
@@ -147,7 +146,7 @@ publicity.how.text: >
   informiere jeden den du bis zum Tag des Spiel triffst. Der Grossteil der
   Spieler erfährt von diesem Spiel durch dieses geniale Marketingding namens
   "Mundpropaganda". Um es dir leichter zu machen, haben wir ein
-  <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>
+  <a href="https://www.facebook.com/events/526793160853271/">Facebook Event</a>
   erstellt, welches du sharen kannst, und zu welchem du deine Freunde einladen
   kannst.
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">Twittere</a> auch darüber !
@@ -258,7 +257,7 @@ game.rules.bullets: |
     <li>Dein Band muss zu jeder Zeit sichtbar getragen werden. Das Verstecken des Bandes wird als Schummeln eingestuft, und kann mit dem Tod bestraft werden.</li> 
     <li>Wenn dich ein Fänger fängt, musst du dein Läuferband hergeben, und dein Fängerband auf deinem Arm anbringen.</li> 
     <li>Nur eine Person auf einmal fangen: Fänger können keine weiteren Leute fangen, während sie gerade Bänder austauschen.</li> 
-    <li>In Spielnotfällen, kontaktiere Fin!</li> 
+    <li>In Spielnotfällen, kontaktiere Clara!</li> 
     <li>In medizinischen Notfällen, ruf die Rettung: 144!</li> 
   </ul> 
 

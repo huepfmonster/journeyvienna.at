@@ -27,7 +27,7 @@ opener: >
 
 # gist
 
-info.date: Wednesday, August 30th
+info.date: Saturday, September 17th
 info.time: "19:00"
 info.address: To be announced
 
@@ -61,7 +61,7 @@ join.text: >
   The game is <em>free</em> and requires <em>no signup</em>, the only thing you
   need to do is <em>be there when it starts</em> ! Still, we would appreciate
   it if you drop us a quick <a href="mailto:journeyvienna@gmail.com">email</a>,
-  join the <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>,
+  join the <a href="https://www.facebook.com/events/526793160853271/">Facebook Event</a>,
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">tweet about it</a>,
   tell all your friends or bring them along, etc.
 join.spread: More information on <a href="/publicity/">spreading the word</a>.
@@ -117,8 +117,7 @@ credits.photo.attributions: >
 
 credits.team.heading: Team & Contact
 credits.team.playvienna: >
-  Organized by <a href="http://fin.io">fin</a> and
-  <a href="http://playvienna.com">play:vienna</a>.
+  Organized by <a href="http://playvienna.com">play:vienna</a>.
 credits.team.agents: Our undercover checkpoint agents will be disclosed after the journey.
 credits.team.volunteer: >
   Want to be a part of the next journey team?<br/>
@@ -147,7 +146,7 @@ publicity.how.text: >
   inform everyone you come across between now and game time. The bulk of our
   players heard about this game by the genius of advertising that is
   'word-of-mouth.' To make it easier for you to spread the word, we created a
-  <a href="https://www.facebook.com/events/320706504755946/">Facebook Event</a>
+  <a href="https://www.facebook.com/events/526793160853271/">Facebook Event</a>
   which you can share, and to which you can invite your friends. Also
   <a href="http://twitter.com/home?status=Join%20me%20for%20a%20free%20street%20game%20of%20epic%20proportion:%20http://www.journeyvienna.at%20%23journeyvienna">tweet about it</a> !
 
@@ -254,7 +253,7 @@ game.rules.bullets: |
     <li>Your ribbon must be worn visibly on the upper arm at all times. Hiding your ribbon is considered cheating, and is punishable by death.</li>
     <li>If a chaser tags you, you must surrender your runner's ribbon & put on your chaser's ribbon.</li>
     <li>Only one tag at a time: Chasers cannot tag while exchanging the ribbon.</li>
-    <li>In case of game emergency, call Fin!</li>
+    <li>In case of game emergency, call Clara!</li>
     <li>In case of medical emergency, call 144!</li>
   </ul>
 
